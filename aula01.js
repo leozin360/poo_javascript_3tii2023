@@ -15,6 +15,6 @@ const p1 = new Pessoa('Thiago', 'Fortenski');
 const p2 = new Pessoa('Lingui', 'Ceta');
 const p3 = new Pessoa('Sujiro', 'Kimimame');
 
-console.log(p1)
-console.log(p2)
-console.log(p3)
+console.log(p1);
+console.log(p2);
+console.log(p3);
